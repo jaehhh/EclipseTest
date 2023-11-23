@@ -3,6 +3,8 @@ package gitTest;
 public class GitTest {
 	
 	public static void main(String[] args) {
-		System.out.println("깃허브-이클립스 연동 테스트");
+		// 기존 코드 1개 삭제됨.
+		
+		System.out.println("추가된 코드");
 	}
 }
